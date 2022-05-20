@@ -1,0 +1,64 @@
+html,body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(234, 228, 239);
+    
+}
+.form-section{
+    margin: 20px 0 ;
+    height: auto;	
+    width: 100%;
+    border: 2px solid black;
+    background-color: rgb(214, 228, 221);
+}
+.form-heading{
+    background-color: rgb(101, 183, 185);
+    margin: 0 0 10px 0;
+    border-bottom: 1px solid black;
+}
+.form-heading h2{
+    margin: 0 0 0 0;
+    padding: 5px 0;
+    text-align: center;
+}
+.form-group {
+    margin: 10px 50px;
+}
+.form-group1 {
+    margin: 15px 50px;
+}
+.field-error, .field-error1{
+    color: red;
+    font-size: 12px;
+    margin: 2px 0 2px 5px;
+}
+label{
+    font-weight: 500;
+}
+
+/* Button style */
+.form-button{
+    position: relative;
+    left: 40%;
+    margin: 20px 0;
+}
+.form-button #data{
+    background-color: cadetblue;
+    width: 20%;
+}
+.form-button #data:hover{
+    background-color:rgb(187, 214, 201);
+}
+
+span {
+	display:inline-block;
+}
+.add-style input {
+	width:100%;
+	
+}
+.navbar-form {
+	margin: 0;
+}
+
+
